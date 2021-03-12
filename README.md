@@ -34,3 +34,30 @@ Heroku
 ## Change Log
 XX-XX-XX XXPM: 
 
+## Credits and Collaborations
+
+------
+
+Number and name of feature: 1 -- Repo/Deploy Setup + Clone & Scaffold
+
+Estimate of time needed to complete: 30 minutes
+
+Start time: 830PM
+
+Finish time: 
+
+Actual time needed to complete:  hours
+
+------
+
+Number and name of feature: 1 -- 
+
+Estimate of time needed to complete:  minutes
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete:  hours
+
+------
