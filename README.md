@@ -8,7 +8,7 @@
 - 
 
 # Heroku Deployment
-- 
+- https://rtipper-basic-auth.herokuapp.com/
 
 ## Overview - Deploy an Express server that implements Basic Authentication, with signup and signin capabilities, using a Mongo database for storage.
 
