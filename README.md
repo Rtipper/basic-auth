@@ -49,15 +49,3 @@ Finish time: 9PM
 Actual time needed to complete: 30 minutes
 
 ------
-
-Number and name of feature: 1 -- 
-
-Estimate of time needed to complete:  minutes
-
-Start time: 
-
-Finish time: 
-
-Actual time needed to complete:  hours
-
-------
