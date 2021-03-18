@@ -5,7 +5,7 @@
 **Version**: 1.0.0
 
 # Pull Request
-- https://github.com/Rtipper/basic-auth/pull/4
+- https://github.com/Rtipper/basic-auth/pull/5
 
 # Heroku Deployment
 - https://rtipper-basic-auth.herokuapp.com/
