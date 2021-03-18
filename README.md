@@ -32,7 +32,7 @@ GitHub
 Heroku
 
 ## Change Log
-XX-XX-XX XXPM: 
+03-17-21 710PM: Able to finally get tests working and troublshooted to pass.
 
 ## Credits and Collaborations
 
